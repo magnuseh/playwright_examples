@@ -1,0 +1,14 @@
+{
+  "name": "playwright_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1",
+    "playwright": "^1.37.1",
+    "typescript": "^5.2.2"
+  }
+}
